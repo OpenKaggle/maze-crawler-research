@@ -53,6 +53,9 @@ remain available only from the official competition page.
 For large eligible artifacts—such as generated submission bundles or local
 simulation evidence—this source repository links to a separate, hash-manifested
 artifact release rather than placing large binary/replay data in Git history.
+See [evaluation terms and version lineage](docs/EVALUATION_TERMS.md) for the
+distinction between local paired evaluation, self-play, hosted-submission
+observation, and official platform records.
 
 ## Evaluate Locally
 
