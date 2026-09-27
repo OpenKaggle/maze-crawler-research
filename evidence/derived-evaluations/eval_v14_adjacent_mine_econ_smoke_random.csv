@@ -1,0 +1,6 @@
+seed,agent_a,agent_b,reward_a,reward_b,status_a,status_b,winner,steps
+1,experiments/v14_adjacent_mine_econ/main.py,random,428,-200,DONE,DONE,0,304
+2,experiments/v14_adjacent_mine_econ/main.py,random,0.5,0.5,DONE,DONE,-1,91
+3,experiments/v14_adjacent_mine_econ/main.py,random,2434,-190,DONE,DONE,0,314
+4,experiments/v14_adjacent_mine_econ/main.py,random,94,-210,DONE,DONE,0,294
+5,experiments/v14_adjacent_mine_econ/main.py,random,1090,-251,DONE,DONE,0,253
