@@ -62,5 +62,5 @@ If Kaggle API has transient SSL failures, use:
 scripts/submit_with_retry.sh
 ```
 
-Eligible sanitized artifacts are also backed up in the private
-[Kaggle archive](https://www.kaggle.com/datasets/jahyee/maze-crawler-research-archive).
+Eligible sanitized artifacts are also backed up in a verified private Kaggle
+archive for account-level recovery; access is intentionally not public.
