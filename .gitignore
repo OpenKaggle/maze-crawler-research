@@ -7,6 +7,10 @@ external/
 reports/
 data/
 baselines/
-submissions/
+# Generated bundles and raw run outputs stay outside Git. Reviewed first-party
+# submission source is intentionally published with its provenance in README.
+submissions/*
+!submissions/
+!submissions/*.py
 working/
 notebooks/

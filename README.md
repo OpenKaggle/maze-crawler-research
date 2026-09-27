@@ -3,11 +3,12 @@
 Local workspace for the Kaggle `maze-crawler` competition.
 
 This repository is the sanitized public research archive. It keeps first-party
-experiment variants, evaluation helpers, and written findings while excluding
-raw competition inputs, replay corpora, submissions, virtual environments, and
-cached third-party baselines. The root baseline was originally derived from the
-public Kaggle notebook credited in `docs/research.md`; subsequent variants and
-analysis are preserved here with that provenance visible.
+experiment variants, evaluated submission source, evaluation helpers, and
+written findings while excluding raw competition inputs, downloaded replay
+corpora, virtual environments, and cached third-party baselines. The root
+baseline was originally derived from the public Kaggle notebook credited in
+`docs/research.md`; subsequent variants and analysis are preserved here with
+that provenance visible.
 
 ## Publication status
 
@@ -40,6 +41,18 @@ See `docs/research.md` for rule notes, leaderboard snapshot, local evaluation, a
 
 The historical scores above are workspace records, not claims about the current
 competition leaderboard.
+
+## First-party submission source
+
+`submissions/` preserves five reviewed, user-authored competition entry scripts
+(`v51`, `v67`, `v71`, `v73`, and `v101`). They are source releases, rather than
+organizer inputs or server-downloaded replay records. The corresponding
+evaluation method is documented in this repository; original competition inputs
+remain available only from the official competition page.
+
+For large eligible artifacts—such as generated submission bundles or local
+simulation evidence—this source repository links to a separate, hash-manifested
+artifact release rather than placing large binary/replay data in Git history.
 
 ## Evaluate Locally
 
