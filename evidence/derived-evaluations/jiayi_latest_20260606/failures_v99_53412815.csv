@@ -1,0 +1,14 @@
+episode_id,seed,opponent,result,our_reward,opp_reward,steps,death_step,cause,south_at_death,prev_our_factory,prev_opp_factory,our_factory_action,opp_factory_action,our_factory_dest,opp_factory_dest,our_support_energy,opp_support_energy,our_support_count,opp_support_count
+78916891,1621024307,Ramesh888,win,2279,-80,424,,active_or_win,,,,,,,,11,0,1,0
+78917268,1617084992,Justin Tang,win,316,-101,403,,active_or_win,,,,,,,,47,0,1,0
+78917648,616312497,Pavlo Ivanin,draw,0.5,0.5,264,263,factory_collision,35,"[0, 16, 53, 3543, 1, 1, 13, 0]","[0, 16, 51, 399, 0, 1, 3, 0]",SOUTH,NORTH,"(16, 52)","(16, 52)",0,0,1,1
+78917889,503649477,wohoo!,win,2833,-95,409,,active_or_win,,,,,,,,74,0,1,0
+78918127,1319685197,BIZEN250,win,5769,-18,486,,active_or_win,,,,,,,,18,0,1,0
+78918509,1144156699,Андрей Савельев,loss,-16,744,488,487,single_factory_death,109,"[0, 5, 109, 1169, 1, 1, 13, 0]","[0, 19, 112, 745, 0, 1, 7, 0]",SOUTH,IDLE,"(5, 108)","(19, 112)",21,0,1,0
+78918888,292164592,CurveCowboy,loss,-1,1,501,,timeout_tiebreak,,,,,,,,0,0,0,0
+78919135,1709331416,抹茶穗岁,win,3477,-56,448,,active_or_win,,,,,,,,83,0,1,0
+78919372,65192751,MarcinStaśko | s4p.eu | Poland,loss,-1,1,205,204,factory_collision,25,"[0, 17, 43, 4090, 1, 1, 15, 6]","[0, 16, 43, 803, 0, 2, 6, 0]",WEST,IDLE,"(16, 43)","(16, 43)",0,0,0,1
+78919600,211916902,wohoo!,loss,-30,3364,474,473,boundary_scroll,102,"[0, 17, 101, 84, 1, 2, 10, 0]","[0, 6, 102, 3365, 0, 1, 15, 0]",IDLE,NORTH,"(17, 101)","(6, 103)",28,0,1,0
+78919835,136505540,Lakhindar Pal,loss,-10,1017,494,493,boundary_scroll,112,"[0, 11, 111, 491, 0, 1, 3, 0]","[0, 9, 114, 1018, 1, 1, 0, 0]",WEST,WEST,"(10, 111)","(8, 114)",0,0,0,0
+78920215,411902323,Jamie Nojek,draw,0.5,0.5,268,267,factory_collision,35,"[0, 9, 53, 775, 0, 1, 9, 4]","[0, 10, 54, 834, 1, 1, 0, 0]",NORTH,WEST,"(9, 54)","(9, 54)",0,0,0,0
+78920459,2031584125,AndiArvy,win,282,-20,484,,active_or_win,,,,,,,,96,0,1,0

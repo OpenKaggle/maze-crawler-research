@@ -1,0 +1,35 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78940854,78539314,Gimme JOB iam jobless :(((|Jiayi Du,1,Gimme JOB iam jobless :(((,-95,2311,2311,-95,Jiayi Du,win,DONE,DONE,409,408,,,408,,"(14, 82, 2237)",reports/v118_publish_20260607/53421538/replays/episode-78940854-replay.json
+78941235,2038002698,Jiayi Du|SC/AGELITE,0,SC/AGELITE,-10,208,-10,208,SC/AGELITE,loss,DONE,DONE,494,493,,493,,,"(17, 114, 208)",reports/v118_publish_20260607/53421538/replays/episode-78941235-replay.json
+78941628,129133981,Jiayi Du|luckyappley,0,luckyappley,808,-319,808,-319,Jiayi Du,win,DONE,DONE,185,,184,,184,"(11, 38, 808)",,reports/v118_publish_20260607/53421538/replays/episode-78941628-replay.json
+78942007,910162000,Sudhanshu Tiwari|Jiayi Du,1,Sudhanshu Tiwari,0.5,0.5,0.5,0.5,draw,draw,DONE,DONE,382,381,381,381,381,,,reports/v118_publish_20260607/53421538/replays/episode-78942007-replay.json
+78942390,1703276904,Jiayi Du|TAKMADA,0,TAKMADA,247,-58,247,-58,Jiayi Du,win,DONE,DONE,446,,445,,445,"(18, 101, 175)",,reports/v118_publish_20260607/53421538/replays/episode-78942390-replay.json
+78942776,1715648573,Jiayi Du|ANKIT AGARWAL,0,ANKIT AGARWAL,34,-54,34,-54,Jiayi Du,win,DONE,DONE,450,,449,,449,"(14, 96, 34)",,reports/v118_publish_20260607/53421538/replays/episode-78942776-replay.json
+78943160,1822406307,Debatreya Biswas|Jiayi Du,1,Debatreya Biswas,1,-1,-1,1,Debatreya Biswas,loss,DONE,DONE,117,116,116,116,116,,,reports/v118_publish_20260607/53421538/replays/episode-78943160-replay.json
+78943408,594974933,AndiArvy|Jiayi Du,1,AndiArvy,1,-1,-1,1,AndiArvy,loss,DONE,DONE,110,109,109,109,109,,,reports/v118_publish_20260607/53421538/replays/episode-78943408-replay.json
+78943649,504532626,Helee|Jiayi Du,1,Helee,866,-28,-28,866,Helee,loss,DONE,DONE,476,,475,475,,"(9, 110, 866)",,reports/v118_publish_20260607/53421538/replays/episode-78943649-replay.json
+78944039,195421669,Jiayi Du|Justus,0,Justus,-52,116,-52,116,Justus,loss,DONE,DONE,452,451,,451,,,"(16, 93, 116)",reports/v118_publish_20260607/53421538/replays/episode-78944039-replay.json
+78944424,1585144881,Jiayi Du|chibarie,0,chibarie,558,-62,558,-62,Jiayi Du,win,DONE,DONE,442,,441,,441,"(18, 102, 514)",,reports/v118_publish_20260607/53421538/replays/episode-78944424-replay.json
+78944659,382223486,Jiayi Du|Mirza Milan Farabi,0,Mirza Milan Farabi,0.5,0.5,0.5,0.5,draw,draw,DONE,DONE,174,173,173,173,173,,,reports/v118_publish_20260607/53421538/replays/episode-78944659-replay.json
+78944907,114912903,Saicharan Ramineni|Jiayi Du,1,Saicharan Ramineni,-22,163,163,-22,Jiayi Du,win,DONE,DONE,482,481,,,481,,"(15, 115, 118)",reports/v118_publish_20260607/53421538/replays/episode-78944907-replay.json
+78945151,582139024,Jiayi Du|cora zeng,0,cora zeng,0.5,0.5,0.5,0.5,draw,draw,DONE,DONE,263,262,262,262,262,,,reports/v118_publish_20260607/53421538/replays/episode-78945151-replay.json
+78945527,531440510,Tomas Rudolecky|Jiayi Du,1,Tomas Rudolecky,-40,297,297,-40,Jiayi Du,win,DONE,DONE,464,463,,,463,,"(11, 103, 248)",reports/v118_publish_20260607/53421538/replays/episode-78945527-replay.json
+78945771,553680821,Damien Gether|Jiayi Du,1,Damien Gether,-1,1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(0, 117, 128)","(12, 116, 2358)",reports/v118_publish_20260607/53421538/replays/episode-78945771-replay.json
+78946015,936428377,Santiago Maniches|Jiayi Du,1,Santiago Maniches,-10,2214,2214,-10,Jiayi Du,win,DONE,DONE,494,493,,,493,,"(19, 116, 2214)",reports/v118_publish_20260607/53421538/replays/episode-78946015-replay.json
+78946250,1440958095,Jiayi Du|yamanoue_sinbee,0,yamanoue_sinbee,-58,5167,-58,5167,yamanoue_sinbee,loss,DONE,DONE,446,445,,445,,,"(12, 92, 5167)",reports/v118_publish_20260607/53421538/replays/episode-78946250-replay.json
+78946488,706407973,Vivek Tiwari|Jiayi Du,1,Vivek Tiwari,-54,4755,4755,-54,Jiayi Du,win,DONE,DONE,450,449,,,449,,"(18, 100, 4659)",reports/v118_publish_20260607/53421538/replays/episode-78946488-replay.json
+78947755,605099992,Jiayi Du|Halvard,0,Halvard,1,-1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(5, 124, 5607)","(17, 115, 321)",reports/v118_publish_20260607/53421538/replays/episode-78947755-replay.json
+78948529,1172283523,Erik Gregerson|Jiayi Du,1,Erik Gregerson,-44,5505,5505,-44,Jiayi Du,win,DONE,DONE,460,459,,,459,,"(19, 100, 5505)",reports/v118_publish_20260607/53421538/replays/episode-78948529-replay.json
+78950946,455200234,Betise|Jiayi Du,1,Betise,-1,1,1,-1,Jiayi Du,win,DONE,DONE,300,299,299,299,299,,,reports/v118_publish_20260607/53421538/replays/episode-78950946-replay.json
+78953217,1704288186,Jiayi Du|Bulşah Keçici,0,Bulşah Keçici,-22,531,-22,531,Bulşah Keçici,loss,DONE,DONE,482,481,,481,,,"(14, 106, 531)",reports/v118_publish_20260607/53421538/replays/episode-78953217-replay.json
+78955237,1697912747,ngoc thao thach|Jiayi Du,1,ngoc thao thach,-58,382,382,-58,Jiayi Du,win,DONE,DONE,446,445,,,445,,"(17, 98, 382)",reports/v118_publish_20260607/53421538/replays/episode-78955237-replay.json
+78956108,1525694015,AnMaLeNo AnMaLeNo|Jiayi Du,1,AnMaLeNo AnMaLeNo,-40,5633,5633,-40,Jiayi Du,win,DONE,DONE,464,463,,,463,,"(13, 99, 5633)",reports/v118_publish_20260607/53421538/replays/episode-78956108-replay.json
+78957128,132466179,Jakob Brüggen|Jiayi Du,1,Jakob Brüggen,1,-1,-1,1,Jakob Brüggen,loss,DONE,DONE,211,210,210,210,210,,,reports/v118_publish_20260607/53421538/replays/episode-78957128-replay.json
+78959157,1218910905,Lakhindar Pal|Jiayi Du,1,Lakhindar Pal,0.5,0.5,0.5,0.5,draw,draw,DONE,DONE,457,456,456,456,456,,,reports/v118_publish_20260607/53421538/replays/episode-78959157-replay.json
+78959786,265217506,Jiayi Du|Tomas Rudolecky,0,Tomas Rudolecky,1,-1,1,-1,Jiayi Du,win,DONE,DONE,359,358,358,358,358,,,reports/v118_publish_20260607/53421538/replays/episode-78959786-replay.json
+78960914,980502116,Jiayi Du|Mathieu W,0,Mathieu W,6987,-110,6987,-110,Jiayi Du,win,DONE,DONE,394,,393,,393,"(8, 82, 6961)",,reports/v118_publish_20260607/53421538/replays/episode-78960914-replay.json
+78961874,1857599167,Jiayi Du|Jinhyun An,0,Jinhyun An,-18,497,-18,497,Jinhyun An,loss,DONE,DONE,486,485,,485,,,"(14, 109, 497)",reports/v118_publish_20260607/53421538/replays/episode-78961874-replay.json
+78964154,575891552,Jiayi Du|Master Teo,0,Master Teo,1,-1,1,-1,Jiayi Du,win,DONE,DONE,486,485,485,485,485,,,reports/v118_publish_20260607/53421538/replays/episode-78964154-replay.json
+78965804,1239480356,Vladislav Lavrentev|Jiayi Du,1,Vladislav Lavrentev,0.5,0.5,0.5,0.5,draw,draw,DONE,DONE,235,234,234,234,234,,,reports/v118_publish_20260607/53421538/replays/episode-78965804-replay.json
+78966536,84018015,superpig|Jiayi Du,1,superpig,-16,350,350,-16,Jiayi Du,win,DONE,DONE,488,487,,,487,,"(12, 118, 278)",reports/v118_publish_20260607/53421538/replays/episode-78966536-replay.json
+78969576,1165897547,Changdao Chen|Jiayi Du,1,Changdao Chen,762,-44,-44,762,Changdao Chen,loss,DONE,DONE,460,,459,459,,"(11, 97, 762)",,reports/v118_publish_20260607/53421538/replays/episode-78969576-replay.json

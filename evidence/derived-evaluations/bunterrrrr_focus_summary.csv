@@ -1,0 +1,18 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78345158,776893278,bunterrrrr|Bulşah Keçici,0,Bulşah Keçici,9684,-36,9684,-36,bunterrrrr,win,DONE,DONE,468,,467,,467,"(9, 105, 9387)",,reports/replays_bunterrrrr_focus/episode-78345158-replay.json
+78355260,579155915,Ramesh888|bunterrrrr,1,Ramesh888,-60,7400,7400,-60,bunterrrrr,win,DONE,DONE,444,443,,,443,,"(13, 90, 7400)",reports/replays_bunterrrrr_focus/episode-78355260-replay.json
+78364239,790512864,bunterrrrr|Santiago Maniches,0,Santiago Maniches,8499,-20,8499,-20,bunterrrrr,win,DONE,DONE,484,,483,,483,"(3, 108, 8199)",,reports/replays_bunterrrrr_focus/episode-78364239-replay.json
+78372997,31500289,Kalyan|bunterrrrr,1,Kalyan,-22,2738,2738,-22,bunterrrrr,win,DONE,DONE,482,481,,,481,,"(10, 112, 2441)",reports/replays_bunterrrrr_focus/episode-78372997-replay.json
+78389263,1503058346,bunterrrrr|putiye,0,putiye,6348,-182,6348,-182,bunterrrrr,win,DONE,DONE,322,,321,,321,"(7, 55, 6348)",,reports/replays_bunterrrrr_focus/episode-78389263-replay.json
+78402206,96356008,bunterrrrr|Артём Свинобоев,0,Артём Свинобоев,1007,-473,1007,-473,bunterrrrr,win,DONE,DONE,31,,30,,30,"(7, 11, 1007)",,reports/replays_bunterrrrr_focus/episode-78402206-replay.json
+78412545,594482124,bunterrrrr|CurveCowboy,0,CurveCowboy,1,-1,1,-1,bunterrrrr,win,DONE,DONE,501,,,,,"(9, 118, 8345)","(15, 118, 211)",reports/replays_bunterrrrr_focus/episode-78412545-replay.json
+78421763,1766507407,bunterrrrr|Mahesh Vennam,0,Mahesh Vennam,987,-473,987,-473,bunterrrrr,win,DONE,DONE,31,,30,,30,"(7, 14, 987)",,reports/replays_bunterrrrr_focus/episode-78421763-replay.json
+78436997,1585997240,Takahiro Matsumoto|bunterrrrr,1,Takahiro Matsumoto,-1,1,1,-1,bunterrrrr,win,DONE,DONE,153,152,152,152,152,,,reports/replays_bunterrrrr_focus/episode-78436997-replay.json
+78449131,1520249562,bunterrrrr|Master Teo,0,Master Teo,6213,-263,6213,-263,bunterrrrr,win,DONE,DONE,241,,240,,240,"(6, 40, 6213)",,reports/replays_bunterrrrr_focus/episode-78449131-replay.json
+78458513,344391414,"bunterrrrr|Tom, Tom, we are lost!",0,"Tom, Tom, we are lost!",7899,-154,7899,-154,bunterrrrr,win,DONE,DONE,350,,349,,349,"(5, 62, 7899)",,reports/replays_bunterrrrr_focus/episode-78458513-replay.json
+78466173,382589254,Betise|bunterrrrr,1,Betise,1,-1,-1,1,Betise,loss,DONE,DONE,144,143,143,143,143,,,reports/replays_bunterrrrr_focus/episode-78466173-replay.json
+78471964,1169434806,bunterrrrr|Abhi Vardhan Reddy,0,Abhi Vardhan Reddy,952,-455,952,-455,bunterrrrr,win,DONE,DONE,49,,48,,48,"(2, 10, 952)",,reports/replays_bunterrrrr_focus/episode-78471964-replay.json
+78477239,940666890,bunterrrrr|Michael Y. Qiu,0,Michael Y. Qiu,1,-1,1,-1,bunterrrrr,win,DONE,DONE,118,117,117,117,117,,,reports/replays_bunterrrrr_focus/episode-78477239-replay.json
+78485877,804637644,yasu|bunterrrrr,1,yasu,-12,3298,3298,-12,bunterrrrr,win,DONE,DONE,492,491,,,491,,"(18, 115, 3298)",reports/replays_bunterrrrr_focus/episode-78485877-replay.json
+78495807,72868340,harmo-miu|bunterrrrr,1,harmo-miu,-1,1,1,-1,bunterrrrr,win,DONE,DONE,501,,,,,"(1, 123, 7752)","(19, 117, 8534)",reports/replays_bunterrrrr_focus/episode-78495807-replay.json
+78514335,1121562593,SC/AGELITE|bunterrrrr,1,SC/AGELITE,-6,8328,8328,-6,bunterrrrr,win,DONE,DONE,498,497,,,497,,"(15, 115, 8028)",reports/replays_bunterrrrr_focus/episode-78514335-replay.json

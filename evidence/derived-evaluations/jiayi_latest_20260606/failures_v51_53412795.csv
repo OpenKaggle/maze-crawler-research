@@ -1,0 +1,14 @@
+episode_id,seed,opponent,result,our_reward,opp_reward,steps,death_step,cause,south_at_death,prev_our_factory,prev_opp_factory,our_factory_action,opp_factory_action,our_factory_dest,opp_factory_dest,our_support_energy,opp_support_energy,our_support_count,opp_support_count
+78916895,907205909,Rister,win,4972,-66,438,,active_or_win,,,,,,,,51,0,1,0
+78917266,2101409663,Pilkwang Kim,win,1,-1,341,340,factory_collision,51,"[0, 17, 68, 465, 0, 1, 5, 8]","[0, 17, 70, 231, 1, 1, 15, 0]",NORTH,SOUTH,"(17, 69)","(17, 69)",47,25,1,1
+78917649,2016929407,yunien,win,174,-42,462,,active_or_win,,,,,,,,0,95,0,1
+78917888,310012085,AidenSong123,win,1,-1,186,185,factory_collision,22,"[0, 15, 40, 1525, 0, 1, 19, 0]","[0, 16, 40, 582, 1, 2, 0, 0]",EAST,IDLE,"(16, 40)","(16, 40)",8,0,1,0
+78918131,1661430043,Isabella Wu,win,405,-14,490,,active_or_win,,,,,,,,0,0,0,0
+78918507,503438491,Nicolas Bridelance,loss,-1,1,294,293,factory_collision,41,"[0, 19, 58, 452, 0, 2, 8, 0]","[0, 19, 57, 432, 1, 1, 5, 2]",IDLE,NORTH,"(19, 58)","(19, 58)",36,41,1,1
+78918886,748850641,AnMaLeNo AnMaLeNo,win,39,-14,490,,active_or_win,,,,,,,,0,0,0,0
+78919128,434772162,Malespero,loss,-16,153,488,487,boundary_scroll,109,"[0, 3, 108, 198, 0, 1, 11, 0]","[0, 19, 112, 107, 1, 1, 13, 8]",WEST,WEST,"(2, 108)","(18, 112)",44,47,1,1
+78919373,1737581860,Nithin maktha,win,3587,-68,436,,active_or_win,,,,,,,,0,70,1,1
+78919601,312645616,Ifeoluwa Adewumi,loss,-1,1,289,288,factory_collision,40,"[0, 18, 58, 584, 1, 2, 10, 0]","[0, 19, 58, 397, 0, 1, 9, 0]",IDLE,WEST,"(18, 58)","(18, 58)",0,0,1,2
+78919839,614100324,wohoo!,win,348,-42,462,,active_or_win,,,,,,,,47,0,1,0
+78920219,896653258,Re Son,win,1,-1,322,321,factory_collision,47,"[0, 17, 65, 439, 0, 1, 17, 0]","[0, 17, 64, 298, 1, 2, 4, 0]",SOUTH,IDLE,"(17, 64)","(17, 64)",47,0,1,1
+78920460,1633764858,Daniel Bekker,win,1,-1,388,387,factory_collision,65,"[0, 11, 80, 386, 1, 2, 20, 7]","[0, 12, 80, 3951, 0, 1, 13, 0]",IDLE,WEST,"(11, 80)","(11, 80)",46,0,1,0

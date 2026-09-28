@@ -1,0 +1,2 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78511858,0,Jiayi Du|Jiayi Du,0,Jiayi Du,0.5,0.5,0.5,0.5,draw,draw,DONE,DONE,139,138,138,138,138,,,reports/replays_v3_validation/episode-78511858-replay.json

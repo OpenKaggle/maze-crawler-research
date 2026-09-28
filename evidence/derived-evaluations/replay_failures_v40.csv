@@ -1,0 +1,23 @@
+episode_id,seed,opponent,result,our_reward,opp_reward,steps,death_step,cause,south_at_death,prev_our_factory,prev_opp_factory,our_factory_action,opp_factory_action,our_factory_dest,opp_factory_dest,our_support_energy,opp_support_energy,our_support_count,opp_support_count
+78597097,325775708,Liz,win,558,-107,397,,active_or_win,,,,,,,,39,0,1,0
+78597454,438837100,Imran Abubeker,win,752,-222,282,,active_or_win,,,,,,,,48,0,1,0
+78597823,259514642,Ruslan Akhmetzianov,win,257,-205,299,,active_or_win,,,,,,,,0,0,1,0
+78598274,1697706422,dtu-master,win,3533,-86,418,,active_or_win,,,,,,,,70,0,1,1
+78598494,2006932177,Emanuel Lázaro,win,1,-1,329,328,factory_collision,48,"[0, 18, 66, 3120, 0, 1, 19, 0]","[0, 18, 67, 21, 1, 2, 20, 0]",NORTH,IDLE,"(18, 67)","(18, 67)",0,0,1,0
+78598857,1493649556,Betise,win,6116,-8,496,,active_or_win,,,,,,,,81,0,1,0
+78599215,1797646851,HongXin Su,win,3049,-62,442,,active_or_win,,,,,,,,35,0,1,0
+78599438,1878285528,Anirudh K,loss,-14,506,490,489,boundary_scroll,110,"[0, 14, 109, 9479, 1, 1, 13, 2]","[0, 17, 117, 459, 0, 1, 9, 0]",IDLE,NORTH,"(14, 109)","(17, 118)",41,48,1,1
+78599442,1396905437,Manav Trivedi,loss,-1,1,360,359,factory_collision,56,"[0, 15, 74, 75, 1, 1, 5, 0]","[0, 14, 74, 477, 0, 2, 12, 0]",WEST,IDLE,"(14, 74)","(14, 74)",0,54,0,1
+78599663,556840965,schanitater,win,255,-36,468,,active_or_win,,,,,,,,59,0,1,0
+78599896,922261953,ANKIT AGARWAL,win,1,-1,421,420,factory_collision,76,"[0, 19, 91, 4380, 0, 1, 19, 0]","[0, 17, 91, 161, 1, 1, 19, 0]",WEST,EAST,"(18, 91)","(18, 91)",25,0,1,0
+78600118,1001806182,Lev Taranov,draw,0.5,0.5,114,113,factory_collision,12,"[0, 10, 29, 829, 0, 1, 4, 8]","[0, 10, 30, 38, 1, 0, 0, 0]",NORTH,IDLE,"(10, 30)","(10, 30)",0,0,0,0
+78600341,1621379445,Manav Trivedi,win,70,-24,480,,active_or_win,,,,,,,,0,0,0,0
+78600569,483825667,jianhua cheng,win,1,-1,199,198,factory_collision,24,"[0, 13, 41, 755, 0, 1, 7, 4]","[0, 13, 42, 973, 1, 0, 0, 0]",NORTH,IDLE,"(13, 42)","(13, 42)",43,0,1,0
+78600792,1273763059,jianhua cheng,win,1,-1,501,,active_or_win,,,,,,,,0,0,0,0
+78601152,1011680483,MarcinStaśko | s4p.eu | Poland,win,1,-1,182,181,factory_collision,21,"[0, 18, 39, 729, 0, 1, 3, 0]","[0, 18, 40, 670, 1, 0, 13, 0]",NORTH,IDLE,"(18, 40)","(18, 40)",37,0,1,0
+78601510,282954353,harmo-miu,loss,-68,3401,436,435,boundary_scroll,83,"[0, 18, 82, 0, 1, 0, 0, 0]","[0, 0, 89, 3402, 0, 2, 0, 0]",JUMP_NORTH,IDLE,"(18, 84)","(0, 89)",0,0,0,0
+78601731,276984554,Андрей Савельев,win,1,-1,156,155,factory_collision,17,"[0, 16, 35, 493, 0, 1, 9, 0]","[0, 16, 36, 900, 1, 0, 14, 0]",NORTH,IDLE,"(16, 36)","(16, 36)",0,0,1,0
+78602102,329420479,Rajan Nagarajan,win,1,-1,501,,active_or_win,,,,,,,,44,0,1,0
+78602326,2024787504,Phillip Choi,win,651,-146,358,,active_or_win,,,,,,,,57,0,1,0
+78602688,1034875126,CurveCowboy,loss,-1,1,384,383,factory_collision,63,"[0, 18, 78, 12, 0, 1, 11, 0]","[0, 18, 80, 3825, 1, 1, 13, 0]",NORTH,SOUTH,"(18, 79)","(18, 79)",0,0,0,1
+78603046,608745134,quantshayan,loss,-1,1,175,174,factory_collision,20,"[0, 17, 39, 538, 1, 2, 14, 1]","[0, 16, 39, 902, 0, 1, 13, 0]",IDLE,EAST,"(17, 39)","(17, 39)",0,0,0,1

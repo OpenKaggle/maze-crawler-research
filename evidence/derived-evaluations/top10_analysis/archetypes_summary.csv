@@ -1,0 +1,4 @@
+build_scout_mean,build_miner_mean,build_worker_mean,first_miner_mean,max_factory_energy_mean,north_pct_mean,south_pct_mean,east_pct_mean,west_pct_mean,jump_north_pct_mean,pct_episodes_no_scout,transfer_north_pct_mean,remove_wall_total_mean,archetype_id,n_teams,members,name
+3.7199999999999998,4.216,2.3200000000000003,52.5138,6417.0,24.0418,6.143999999999999,8.5098,7.719,1.0866,10.400000000000002,0.12440000000000007,9.112,0,5,"Takahiro Matsumoto,PavelLiashkov,Nicolas Klodt,Daniel Bekker,JosephMontana",Hybrid (balanced miners + a few scouts)
+0.6299999999999999,3.74675,1.0550000000000002,54.1045,6329.555,27.113,1.6644999999999999,5.2940000000000005,5.28925,1.7725,86.0,1.41675,10.02575,1,4,"bunterrrrr,Андрей Савельев,Hazy Maze Crawler,ZERO HQR","Silent Miner (no scout, mine-driven)"
+4.12,4.28,4.44,32.12,4240.4,26.202,2.964,5.276,6.554,0.30899999999999994,0.0,7.213,13.48,2,1,AI TOOK MY JOB AND YOUR JOB!,"Scout Swarm (heavy vision, lighter mines)"

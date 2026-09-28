@@ -1,0 +1,8 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78513356,535378187,Shreyash Wetal|Jiayi Du,1,Shreyash Wetal,-235,626,626,-235,Jiayi Du,win,DONE,DONE,269,268,,,268,,"(16, 52, 626)",reports/replays_v5/episode-78513356-replay.json
+78513746,1937620333,Jiayi Du|R2C2,0,R2C2,-1,1,-1,1,R2C2,loss,DONE,DONE,142,141,141,141,141,,,reports/replays_v5/episode-78513746-replay.json
+78514104,1410351009,Jiayi Du|banana is all you need,0,banana is all you need,657,-410,657,-410,Jiayi Du,win,DONE,DONE,94,,93,,93,"(0, 27, 607)",,reports/replays_v5/episode-78514104-replay.json
+78514327,1062640513,Jiayi Du|MhalTeddy,0,MhalTeddy,753,-225,753,-225,Jiayi Du,win,DONE,DONE,279,,278,,278,"(11, 56, 753)",,reports/replays_v5/episode-78514327-replay.json
+78514604,1848325499,yunien|Jiayi Du,1,yunien,-20,158,158,-20,Jiayi Du,win,DONE,DONE,484,483,,,483,,"(18, 117, 158)",reports/replays_v5/episode-78514604-replay.json
+78515025,587978396,Jiayi Du|AnthonyTherrien,0,AnthonyTherrien,1,-1,1,-1,Jiayi Du,win,DONE,DONE,222,221,221,221,221,,,reports/replays_v5/episode-78515025-replay.json
+78515435,111992661,wuxi|Jiayi Du,1,wuxi,-22,30,30,-22,Jiayi Du,win,DONE,DONE,482,481,,,481,,"(16, 107, 0)",reports/replays_v5/episode-78515435-replay.json

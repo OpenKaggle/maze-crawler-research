@@ -1,0 +1,35 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78536240,1270325820,Anakin PILATRE|Jiayi Du,1,Anakin PILATRE,-210,452,452,-210,Jiayi Du,win,DONE,DONE,294,293,,,293,,"(16, 59, 452)",reports/replays_v30/episode-78536240-replay.json
+78536601,1413596053,Jiayi Du|Bulşah Keçici,0,Bulşah Keçici,1,-1,1,-1,Jiayi Du,win,DONE,DONE,460,459,459,459,459,,,reports/replays_v30/episode-78536601-replay.json
+78536962,1410798484,Jiayi Du|Or4k2!,0,Or4k2!,1,-1,1,-1,Jiayi Du,win,DONE,DONE,268,267,267,267,267,,,reports/replays_v30/episode-78536962-replay.json
+78537318,1916658025,Jiayi Du|キンミヤ,0,キンミヤ,710,-34,710,-34,Jiayi Du,win,DONE,DONE,470,,469,,469,"(17, 101, 710)",,reports/replays_v30/episode-78537318-replay.json
+78537540,501505326,Harshith achar|Jiayi Du,1,Harshith achar,1,-1,-1,1,Harshith achar,loss,DONE,DONE,381,380,380,380,380,,,reports/replays_v30/episode-78537540-replay.json
+78537896,895217239,chenyiran222|Jiayi Du,1,chenyiran222,-40,4016,4016,-40,Jiayi Du,win,DONE,DONE,464,463,,,463,,"(18, 97, 3939)",reports/replays_v30/episode-78537896-replay.json
+78538119,855406330,Jiayi Du|KunalKakade,0,KunalKakade,1,-1,1,-1,Jiayi Du,win,DONE,DONE,146,145,145,145,145,,,reports/replays_v30/episode-78538119-replay.json
+78538349,1043409582,Jiayi Du|Manav Trivedi,0,Manav Trivedi,-12,78,-12,78,Manav Trivedi,loss,DONE,DONE,492,491,,491,,,"(16, 112, 28)",reports/replays_v30/episode-78538349-replay.json
+78538572,1872068383,Jiayi Du|AnthonyTherrien,0,AnthonyTherrien,1,-1,1,-1,Jiayi Du,win,DONE,DONE,314,313,313,313,313,,,reports/replays_v30/episode-78538572-replay.json
+78538929,471140848,Michael Almeida|Jiayi Du,1,Michael Almeida,-1,1,1,-1,Jiayi Du,win,DONE,DONE,360,359,359,359,359,,,reports/replays_v30/episode-78538929-replay.json
+78539286,423031276,Jiayi Du|Keep Crawling 🐌,0,Keep Crawling 🐌,328,-18,328,-18,Jiayi Du,win,DONE,DONE,486,,485,,485,"(0, 116, 328)",,reports/replays_v30/episode-78539286-replay.json
+78539650,893320464,Daniel Bekker|Jiayi Du,1,Daniel Bekker,-1,1,1,-1,Jiayi Du,win,DONE,DONE,395,394,394,394,394,,,reports/replays_v30/episode-78539650-replay.json
+78540010,959358378,Jiayi Du|webjdi,0,webjdi,1,-1,1,-1,Jiayi Du,win,DONE,DONE,171,170,170,170,170,,,reports/replays_v30/episode-78540010-replay.json
+78540366,152548920,Jiayi Du|Henry Solberg,0,Henry Solberg,1,-1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(7, 122, 4504)","(14, 122, 2583)",reports/replays_v30/episode-78540366-replay.json
+78540725,1755821136,Jiayi Du|Clark Kitchen,0,Clark Kitchen,1,-1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(12, 117, 5459)","(10, 119, 396)",reports/replays_v30/episode-78540725-replay.json
+78540945,1896658480,Rajan Nagarajan|Jiayi Du,1,Rajan Nagarajan,-1,1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(2, 115, 538)","(13, 118, 4595)",reports/replays_v30/episode-78540945-replay.json
+78541304,1919780558,Jiayi Du|JosephMontana,0,JosephMontana,1,-1,1,-1,Jiayi Du,win,DONE,DONE,390,389,389,389,389,,,reports/replays_v30/episode-78541304-replay.json
+78541662,1075568458,Henry Solberg|Jiayi Du,1,Henry Solberg,1122,-56,-56,1122,Henry Solberg,loss,DONE,DONE,448,,447,447,,"(0, 99, 1122)",,reports/replays_v30/episode-78541662-replay.json
+78541884,1594033338,JosephMontana|Jiayi Du,1,JosephMontana,1,-1,-1,1,JosephMontana,loss,DONE,DONE,501,,,,,"(9, 120, 5936)","(10, 116, 50)",reports/replays_v30/episode-78541884-replay.json
+78542117,2954764,Jiayi Du|JosephMontana,0,JosephMontana,-34,6352,-34,6352,JosephMontana,loss,DONE,DONE,470,469,,469,,,"(19, 105, 6352)",reports/replays_v30/episode-78542117-replay.json
+78542345,875033351,Jiayi Du|Manav Trivedi,0,Manav Trivedi,-1,1,-1,1,Manav Trivedi,loss,DONE,DONE,114,113,113,113,113,,,reports/replays_v30/episode-78542345-replay.json
+78542702,852743979,Davide Stenner|Jiayi Du,1,Davide Stenner,-1,1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(6, 118, 381)","(11, 118, 3088)",reports/replays_v30/episode-78542702-replay.json
+78543058,1642430952,Jiayi Du|Taichi Kitajima,0,Taichi Kitajima,-1,1,-1,1,Taichi Kitajima,loss,DONE,DONE,132,131,131,131,131,,,reports/replays_v30/episode-78543058-replay.json
+78543423,179829330,Jiayi Du|CurveCowboy,0,CurveCowboy,-1,1,-1,1,CurveCowboy,loss,DONE,DONE,501,,,,,"(11, 118, 1157)","(17, 116, 2837)",reports/replays_v30/episode-78543423-replay.json
+78544366,603929624,Nicolas Klodt|Jiayi Du,1,Nicolas Klodt,7800,-92,-92,7800,Nicolas Klodt,loss,DONE,DONE,412,,411,411,,"(6, 91, 7800)",,reports/replays_v30/episode-78544366-replay.json
+78545953,1904681907,CurveCowboy|Jiayi Du,1,CurveCowboy,1,-1,-1,1,CurveCowboy,loss,DONE,DONE,501,,,,,"(6, 119, 5538)","(19, 117, 100)",reports/replays_v30/episode-78545953-replay.json
+78549333,2130591430,Phillip Choi|Jiayi Du,1,Phillip Choi,-1,1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(6, 125, 1859)","(18, 116, 5425)",reports/replays_v30/episode-78549333-replay.json
+78560758,138158040,CurveCowboy|Jiayi Du,1,CurveCowboy,3995,-22,-22,3995,CurveCowboy,loss,DONE,DONE,482,,481,481,,"(5, 113, 3995)",,reports/replays_v30/episode-78560758-replay.json
+78564151,1463151536,Jiayi Du|Daniel Bekker,0,Daniel Bekker,-1,1,-1,1,Daniel Bekker,loss,DONE,DONE,301,300,300,300,300,,,reports/replays_v30/episode-78564151-replay.json
+78564391,1359349489,Jiayi Du|CurveCowboy,0,CurveCowboy,1,-1,1,-1,Jiayi Du,win,DONE,DONE,176,175,175,175,175,,,reports/replays_v30/episode-78564391-replay.json
+78569976,420141240,Eric Wang|Jiayi Du,1,Eric Wang,540,-4,-4,540,Eric Wang,loss,DONE,DONE,500,,499,499,,"(11, 115, 540)",,reports/replays_v30/episode-78569976-replay.json
+78572153,1228353537,Jiayi Du|Phillip Choi,0,Phillip Choi,325,-56,325,-56,Jiayi Du,win,DONE,DONE,448,,447,,447,"(13, 103, 300)",,reports/replays_v30/episode-78572153-replay.json
+78576964,1331660508,Jiayi Du|Mathieu W,0,Mathieu W,-8,649,-8,649,Mathieu W,loss,DONE,DONE,496,495,,495,,,"(10, 120, 604)",reports/replays_v30/episode-78576964-replay.json
+78587325,51011885,Jeki Wan Taufik|Jiayi Du,1,Jeki Wan Taufik,-1,1,1,-1,Jiayi Du,win,DONE,DONE,329,328,328,328,328,,,reports/replays_v30/episode-78587325-replay.json

@@ -1,0 +1,13 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78509359,608516789,Jiayi Du|Safarbek,0,Safarbek,907,-281,907,-281,Jiayi Du,win,DONE,DONE,223,,222,,222,"(10, 42, 829)",,reports/replays_v2/episode-78509359-replay.json
+78509714,417029856,Jiayi Du|yile deng,0,yile deng,426,-70,426,-70,Jiayi Du,win,DONE,DONE,434,,433,,433,"(15, 98, 379)",,reports/replays_v2/episode-78509714-replay.json
+78510073,1928659840,Jiayi Du|kyosan,0,kyosan,295,-56,295,-56,Jiayi Du,win,DONE,DONE,448,,447,,447,"(10, 94, 246)",,reports/replays_v2/episode-78510073-replay.json
+78510303,724642782,Lev Taranov|Jiayi Du,1,Lev Taranov,949,-76,-76,949,Lev Taranov,loss,DONE,DONE,428,,427,427,,"(6, 94, 860)",,reports/replays_v2/episode-78510303-replay.json
+78510658,1048453206,Jiayi Du|Santiago Maniches,0,Santiago Maniches,1,-1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(19, 122, 349)","(10, 116, 160)",reports/replays_v2/episode-78510658-replay.json
+78510882,1942639598,Jiayi Du|KunalKakade,0,KunalKakade,119,-10,119,-10,Jiayi Du,win,DONE,DONE,494,,493,,493,"(12, 123, 76)",,reports/replays_v2/episode-78510882-replay.json
+78511138,584775816,Jiayi Du|betterme,0,betterme,-1,1,-1,1,betterme,loss,DONE,DONE,376,375,375,375,375,,,reports/replays_v2/episode-78511138-replay.json
+78511492,2073577097,Jiayi Du|Isabella Wu,0,Isabella Wu,-24,98,-24,98,Isabella Wu,loss,DONE,DONE,480,479,,479,,,"(13, 111, 98)",reports/replays_v2/episode-78511492-replay.json
+78511850,2005916470,betterme|Jiayi Du,1,betterme,-42,528,528,-42,Jiayi Du,win,DONE,DONE,462,461,,,461,,"(17, 100, 441)",reports/replays_v2/episode-78511850-replay.json
+78512207,1629283579,Jiayi Du|wohoo!,0,wohoo!,-42,71,-42,71,wohoo!,loss,DONE,DONE,462,461,,461,,,"(19, 106, 71)",reports/replays_v2/episode-78512207-replay.json
+78512456,1031645738,Jiayi Du|Addison Howard,0,Addison Howard,1,-1,1,-1,Jiayi Du,win,DONE,DONE,259,258,258,258,258,,,reports/replays_v2/episode-78512456-replay.json
+78512691,1487030275,Betise|Jiayi Du,1,Betise,-14,93,93,-14,Jiayi Du,win,DONE,DONE,490,489,,,489,,"(11, 116, 54)",reports/replays_v2/episode-78512691-replay.json

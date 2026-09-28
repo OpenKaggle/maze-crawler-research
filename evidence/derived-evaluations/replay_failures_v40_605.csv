@@ -1,0 +1,3 @@
+episode_id,seed,opponent,result,our_reward,opp_reward,steps,death_step,cause,south_at_death,prev_our_factory,prev_opp_factory,our_factory_action,opp_factory_action,our_factory_dest,opp_factory_dest,our_support_energy,opp_support_energy,our_support_count,opp_support_count
+78598274,1697706422,dtu-master,win,3533,-86,418,,active_or_win,,,,,,,,70,0,1,1
+78598494,2006932177,Emanuel Lázaro,win,1,-1,329,328,factory_collision,48,"[0, 18, 66, 3120, 0, 1, 19, 0]","[0, 18, 67, 21, 1, 2, 20, 0]",NORTH,IDLE,"(18, 67)","(18, 67)",0,0,1,0

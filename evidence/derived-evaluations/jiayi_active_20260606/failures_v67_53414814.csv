@@ -1,0 +1,7 @@
+episode_id,seed,opponent,result,our_reward,opp_reward,steps,death_step,cause,south_at_death,prev_our_factory,prev_opp_factory,our_factory_action,opp_factory_action,our_factory_dest,opp_factory_dest,our_support_energy,opp_support_energy,our_support_count,opp_support_count
+78921796,689896717,Jaskaran Singh,win,304,-200,304,,active_or_win,,,,,,,,46,79,1,1
+78922029,1678583824,Justus,win,1,-1,174,173,factory_collision,20,"[0, 7, 38, 2599, 1, 1, 3, 0]","[0, 6, 39, 1627, 0, 1, 0, 0]",NORTH,EAST,"(7, 39)","(7, 39)",0,0,1,0
+78922405,1598018707,Halvard,loss,-50,394,454,453,single_factory_death,92,"[0, 4, 92, 950, 1, 1, 11, 0]","[0, 2, 101, 395, 0, 2, 2, 0]",SOUTH,IDLE,"(4, 91)","(2, 101)",0,0,0,0
+78922784,1799511356,Yuki_Kaneko,win,1208,-66,438,,active_or_win,,,,,,,,42,0,1,0
+78923172,103523173,Vivek Tiwari,win,3389,-44,460,,active_or_win,,,,,,,,75,0,1,0
+78923550,140037123,Halvard,win,1,-1,501,,active_or_win,,,,,,,,0,0,0,0

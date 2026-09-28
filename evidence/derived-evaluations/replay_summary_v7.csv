@@ -1,0 +1,5 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78517801,908390235,banana is all you need|Jiayi Du,1,banana is all you need,-340,691,691,-340,Jiayi Du,win,DONE,DONE,164,163,,,163,,"(18, 33, 691)",reports/replays_v7/episode-78517801-replay.json
+78518217,944723648,Amit Sharan|Jiayi Du,1,Amit Sharan,-245,756,756,-245,Jiayi Du,win,DONE,DONE,259,258,,,258,,"(11, 51, 713)",reports/replays_v7/episode-78518217-replay.json
+78518503,254634757,Jiayi Du|yile deng,0,yile deng,375,-122,375,-122,Jiayi Du,win,DONE,DONE,382,,381,,381,"(14, 79, 375)",,reports/replays_v7/episode-78518503-replay.json
+78518912,1160346845,LI YIYANG829|Jiayi Du,1,LI YIYANG829,-58,240,240,-58,Jiayi Du,win,DONE,DONE,446,445,,,445,,"(19, 98, 197)",reports/replays_v7/episode-78518912-replay.json

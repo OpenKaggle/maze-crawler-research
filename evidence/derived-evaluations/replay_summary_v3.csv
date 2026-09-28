@@ -1,0 +1,4 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78512205,830770918,LoOo_Lab|Jiayi Du,1,LoOo_Lab,-138,372,372,-138,Jiayi Du,win,DONE,DONE,366,365,,,365,,"(14, 73, 329)",reports/replays_v3/episode-78512205-replay.json
+78512459,1288748406,Jiayi Du|Justin Tang,0,Justin Tang,638,-178,638,-178,Jiayi Du,win,DONE,DONE,326,,325,,325,"(18, 66, 638)",,reports/replays_v3/episode-78512459-replay.json
+78512685,1768247853,Jiayi Du|AidenSong123,0,AidenSong123,1,-1,1,-1,Jiayi Du,win,DONE,DONE,297,296,296,296,296,,,reports/replays_v3/episode-78512685-replay.json

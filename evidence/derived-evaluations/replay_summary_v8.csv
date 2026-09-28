@@ -1,0 +1,3 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78520062,608773337,yunien|Jiayi Du,1,yunien,-42,61,61,-42,Jiayi Du,win,DONE,DONE,462,461,,,461,,"(19, 105, 23)",reports/replays_v8/episode-78520062-replay.json
+78520482,661129273,Chloe Lee|Jiayi Du,1,Chloe Lee,408,-66,-66,408,Chloe Lee,loss,DONE,DONE,438,,437,437,,"(10, 91, 408)",,reports/replays_v8/episode-78520482-replay.json

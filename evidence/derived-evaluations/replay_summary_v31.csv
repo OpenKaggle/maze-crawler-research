@@ -1,0 +1,34 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78536244,716067088,Aarav Subedi|Jiayi Du,1,Aarav Subedi,-134,163,163,-134,Jiayi Du,win,DONE,DONE,370,369,,,369,,"(19, 75, 120)",reports/replays_v31/episode-78536244-replay.json
+78536602,1316404899,Manuf|Jiayi Du,1,Manuf,-66,2301,2301,-66,Jiayi Du,win,DONE,DONE,438,437,,,437,,"(16, 95, 2209)",reports/replays_v31/episode-78536602-replay.json
+78536963,910749904,田原優平|Jiayi Du,1,田原優平,-80,305,305,-80,Jiayi Du,win,DONE,DONE,424,423,,,423,,"(18, 95, 274)",reports/replays_v31/episode-78536963-replay.json
+78537319,1304437668,Asterios Terzis|Jiayi Du,1,Asterios Terzis,-110,645,645,-110,Jiayi Du,win,DONE,DONE,394,393,,,393,,"(15, 82, 593)",reports/replays_v31/episode-78537319-replay.json
+78537541,1778197655,Jiayi Du|AnMaLeNo AnMaLeNo,0,AnMaLeNo AnMaLeNo,4925,-20,4925,-20,Jiayi Du,win,DONE,DONE,484,,483,,483,"(9, 110, 4925)",,reports/replays_v31/episode-78537541-replay.json
+78537894,393019471,Bulşah Keçici|Jiayi Du,1,Bulşah Keçici,533,-8,-8,533,Bulşah Keçici,loss,DONE,DONE,496,,495,495,,"(9, 115, 533)",,reports/replays_v31/episode-78537894-replay.json
+78538120,754522632,Jiayi Du|PrivatePieceRec,0,PrivatePieceRec,5957,-56,5957,-56,Jiayi Du,win,DONE,DONE,448,,447,,447,"(19, 96, 5905)",,reports/replays_v31/episode-78538120-replay.json
+78538350,1488166917,Phillip Choi|Jiayi Du,1,Phillip Choi,885,-16,-16,885,Phillip Choi,loss,DONE,DONE,488,,487,487,,"(9, 119, 588)",,reports/replays_v31/episode-78538350-replay.json
+78538571,2055571987,Jiayi Du|Ronald Aung,0,Ronald Aung,1,-1,1,-1,Jiayi Du,win,DONE,DONE,200,199,199,199,199,,,reports/replays_v31/episode-78538571-replay.json
+78538931,1196464356,Mathieu W|Jiayi Du,1,Mathieu W,1,-1,-1,1,Mathieu W,loss,DONE,DONE,308,307,307,307,307,,,reports/replays_v31/episode-78538931-replay.json
+78539287,2062172521,Jiayi Du|Erik Gregerson,0,Erik Gregerson,1,-1,1,-1,Jiayi Du,win,DONE,DONE,480,479,479,479,479,,,reports/replays_v31/episode-78539287-replay.json
+78539649,231547723,Jiayi Du|Pilkwang Kim,0,Pilkwang Kim,4123,-64,4123,-64,Jiayi Du,win,DONE,DONE,440,,439,,439,"(14, 92, 4076)",,reports/replays_v31/episode-78539649-replay.json
+78540007,1713511265,Michael Almeida|Jiayi Du,1,Michael Almeida,-1,1,1,-1,Jiayi Du,win,DONE,DONE,319,318,318,318,318,,,reports/replays_v31/episode-78540007-replay.json
+78540363,1686096715,betterme|Jiayi Du,1,betterme,1,-1,-1,1,betterme,loss,DONE,DONE,350,349,349,349,349,,,reports/replays_v31/episode-78540363-replay.json
+78540723,489847630,Kalyan|Jiayi Du,1,Kalyan,-1,1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(11, 115, 1721)","(19, 120, 6269)",reports/replays_v31/episode-78540723-replay.json
+78540948,1268778892,Tommy Lar|Jiayi Du,1,Tommy Lar,0.5,0.5,0.5,0.5,draw,draw,DONE,DONE,463,462,462,462,462,,,reports/replays_v31/episode-78540948-replay.json
+78541302,1975636632,Jiayi Du|CurveCowboy,0,CurveCowboy,1,-1,1,-1,Jiayi Du,win,DONE,DONE,196,195,195,195,195,,,reports/replays_v31/episode-78541302-replay.json
+78541309,2022582061,Mathieu W|Jiayi Du,1,Mathieu W,1,-1,-1,1,Mathieu W,loss,DONE,DONE,213,212,212,212,212,,,reports/replays_v31/episode-78541309-replay.json
+78541663,642115273,Jiayi Du|MarcinStaśko | s4p.eu | Poland,0,MarcinStaśko | s4p.eu | Poland,-1,1,-1,1,MarcinStaśko | s4p.eu | Poland,loss,DONE,DONE,174,173,173,173,173,,,reports/replays_v31/episode-78541663-replay.json
+78541887,81083893,Akhil Kumar|Jiayi Du,1,Akhil Kumar,1,-1,-1,1,Akhil Kumar,loss,DONE,DONE,196,195,195,195,195,,,reports/replays_v31/episode-78541887-replay.json
+78542118,218034896,yasu|Jiayi Du,1,yasu,1,-1,-1,1,yasu,loss,DONE,DONE,501,,,,,"(11, 116, 312)","(14, 116, 25)",reports/replays_v31/episode-78542118-replay.json
+78542346,2130631291,Jiayi Du|AnMaLeNo AnMaLeNo,0,AnMaLeNo AnMaLeNo,-12,657,-12,657,AnMaLeNo AnMaLeNo,loss,DONE,DONE,492,491,,491,,,"(19, 112, 657)",reports/replays_v31/episode-78542346-replay.json
+78542703,2009606515,Jiayi Du|Shaojun Qin,0,Shaojun Qin,3483,-210,3483,-210,Jiayi Du,win,DONE,DONE,294,,293,,293,"(0, 59, 3435)",,reports/replays_v31/episode-78542703-replay.json
+78543059,1225764603,Jiayi Du|MarcinStaśko | s4p.eu | Poland,0,MarcinStaśko | s4p.eu | Poland,-1,1,-1,1,MarcinStaśko | s4p.eu | Poland,loss,DONE,DONE,287,286,286,286,286,,,reports/replays_v31/episode-78543059-replay.json
+78555700,1765444365,onThoze|Jiayi Du,1,onThoze,-1,1,1,-1,Jiayi Du,win,DONE,DONE,374,373,373,373,373,,,reports/replays_v31/episode-78555700-replay.json
+78561738,208381209,Halvard|Jiayi Du,1,Halvard,1,-1,-1,1,Halvard,loss,DONE,DONE,501,,,,,"(4, 118, 5471)","(15, 119, 4878)",reports/replays_v31/episode-78561738-replay.json
+78565125,1292511190,Erik Gregerson|Jiayi Du,1,Erik Gregerson,-16,279,279,-16,Jiayi Du,win,DONE,DONE,488,487,,,487,,"(11, 114, 208)",reports/replays_v31/episode-78565125-replay.json
+78566699,1683691733,Betise|Jiayi Du,1,Betise,-1,1,1,-1,Jiayi Du,win,DONE,DONE,241,240,240,240,240,,,reports/replays_v31/episode-78566699-replay.json
+78568808,1065004740,Pilkwang Kim|Jiayi Du,1,Pilkwang Kim,594,-98,-98,594,Pilkwang Kim,loss,DONE,DONE,406,,405,405,,"(15, 77, 507)",,reports/replays_v31/episode-78568808-replay.json
+78574126,1999096678,Jiayi Du|bsenst,0,bsenst,-30,387,-30,387,bsenst,loss,DONE,DONE,474,473,,473,,,"(19, 114, 387)",reports/replays_v31/episode-78574126-replay.json
+78578354,854870786,Addison Howard|Jiayi Du,1,Addison Howard,1,-1,-1,1,Addison Howard,loss,DONE,DONE,501,,,,,"(8, 121, 966)","(18, 119, 277)",reports/replays_v31/episode-78578354-replay.json
+78578358,2052156683,MarcinStaśko | s4p.eu | Poland|Jiayi Du,1,MarcinStaśko | s4p.eu | Poland,-1,1,1,-1,Jiayi Du,win,DONE,DONE,314,313,313,313,313,,,reports/replays_v31/episode-78578358-replay.json
+78578579,530981441,Jiayi Du|tuannm3823,0,tuannm3823,2225,-26,2225,-26,Jiayi Du,win,DONE,DONE,478,,477,,477,"(14, 109, 2178)",,reports/replays_v31/episode-78578579-replay.json

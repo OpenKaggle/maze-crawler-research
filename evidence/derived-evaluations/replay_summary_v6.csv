@@ -1,0 +1,8 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78515031,677032482,Jiayi Du|Ruslan Akhmetzianov,0,Ruslan Akhmetzianov,278,-162,278,-162,Jiayi Du,win,DONE,DONE,342,,341,,341,"(13, 70, 278)",,reports/replays_v6/episode-78515031-replay.json
+78515431,1385418834,Flickz.RL|Jiayi Du,1,Flickz.RL,-122,745,745,-122,Jiayi Du,win,DONE,DONE,382,381,,,381,,"(17, 78, 745)",reports/replays_v6/episode-78515431-replay.json
+78515845,993002730,AlphaBound|Jiayi Du,1,AlphaBound,0,-52,-52,0,AlphaBound,loss,DONE,DONE,452,,451,451,,"(5, 91, 0)",,reports/replays_v6/episode-78515845-replay.json
+78516258,2123523388,Jiayi Du|Viren Mane,0,Viren Mane,-54,679,-54,679,Viren Mane,loss,DONE,DONE,450,449,,449,,,"(8, 91, 679)",reports/replays_v6/episode-78516258-replay.json
+78516563,284518058,Mihai Daniel|Jiayi Du,1,Mihai Daniel,-225,703,703,-225,Jiayi Du,win,DONE,DONE,279,278,,,278,,"(17, 53, 702)",reports/replays_v6/episode-78516563-replay.json
+78516569,1045179500,Jiayi Du|Vicky_vikas_10,0,Vicky_vikas_10,1,-1,1,-1,Jiayi Du,win,DONE,DONE,223,222,222,222,222,,,reports/replays_v6/episode-78516569-replay.json
+78516976,1900276636,Jiayi Du|hotaq,0,hotaq,476,-119,476,-119,Jiayi Du,win,DONE,DONE,385,,384,,384,"(19, 81, 475)",,reports/replays_v6/episode-78516976-replay.json

@@ -1,0 +1,3 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78526055,303180947,Jiayi Du|Malespero,0,Malespero,1,-1,1,-1,Jiayi Du,win,DONE,DONE,217,216,216,216,216,,,reports/replays_v15/episode-78526055-replay.json
+78526304,46188860,putiye|Jiayi Du,1,putiye,-251,474,474,-251,Jiayi Du,win,DONE,DONE,253,252,,,252,,"(17, 48, 431)",reports/replays_v15/episode-78526304-replay.json

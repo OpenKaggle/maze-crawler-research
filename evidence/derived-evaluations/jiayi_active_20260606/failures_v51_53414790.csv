@@ -1,0 +1,8 @@
+episode_id,seed,opponent,result,our_reward,opp_reward,steps,death_step,cause,south_at_death,prev_our_factory,prev_opp_factory,our_factory_action,opp_factory_action,our_factory_dest,opp_factory_dest,our_support_energy,opp_support_energy,our_support_count,opp_support_count
+78921554,377712885,virtusooo,win,506,-333,171,,active_or_win,,,,,,,,1,2,1,1
+78921788,1483869808,Ryusei_0612,win,2449,-95,409,,active_or_win,,,,,,,,49,0,1,0
+78922028,636002011,cora zeng,win,809,-362,142,,active_or_win,,,,,,,,0,0,0,1
+78922403,1173377356,Lev Taranov,win,1,-1,175,174,factory_collision,20,"[0, 19, 39, 844, 0, 1, 7, 0]","[0, 19, 38, 542, 1, 2, 0, 0]",SOUTH,IDLE,"(19, 38)","(19, 38)",27,0,1,0
+78922790,402702999,MarcinStaśko | s4p.eu | Poland,win,2475,-56,448,,active_or_win,,,,,,,,45,0,1,0
+78923167,2012140129,imaeakira,win,1222,-125,379,,active_or_win,,,,,,,,334,32,2,1
+78923549,1118475392,ZERO HQR,loss,-52,6282,452,451,boundary_scroll,91,"[0, 13, 90, 169, 1, 2, 10, 0]","[0, 9, 102, 6100, 0, 1, 0, 0]",IDLE,NORTH,"(13, 90)","(9, 103)",0,183,0,1

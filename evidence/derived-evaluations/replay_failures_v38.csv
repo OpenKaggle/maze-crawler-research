@@ -1,0 +1,11 @@
+episode_id,seed,opponent,result,our_reward,opp_reward,steps,death_step,cause,south_at_death,prev_our_factory,prev_opp_factory,our_factory_action,opp_factory_action,our_factory_dest,opp_factory_dest,our_support_energy,opp_support_energy,our_support_count,opp_support_count
+78592758,430637585,Maram Ali,win,541,-190,314,,active_or_win,,,,,,,,0,76,1,1
+78592987,1554057345,Komil Parmar,win,3563,-235,269,,active_or_win,,,,,,,,35,0,1,1
+78593356,497239356,Ishita Goswami,win,238,-50,454,,active_or_win,,,,,,,,59,0,1,0
+78593722,1027089010,AidenSong123,win,5195,-34,470,,active_or_win,,,,,,,,0,0,0,0
+78593937,1710669749,Mahog,loss,-42,770,462,461,boundary_scroll,96,"[0, 15, 95, 172, 1, 2, 18, 0]","[0, 10, 102, 771, 0, 2, 20, 0]",IDLE,EAST,"(15, 95)","(11, 102)",30,0,1,0
+78594160,218905025,Eric Wang,win,332,-8,496,,active_or_win,,,,,,,,0,0,1,0
+78594383,615810807,Abhay J Nayak,loss,-95,379,409,408,boundary_scroll,72,"[0, 17, 71, 0, 1, 0, 0, 0]","[0, 0, 74, 323, 0, 0, 0, 0]",JUMP_NORTH,TRANSFER_SOUTH,"(17, 73)","(0, 74)",0,57,1,1
+78594741,555547260,KunalKakade,loss,-101,696,403,402,boundary_scroll,70,"[0, 19, 69, 0, 1, 0, 0, 0]","[0, 11, 79, 697, 0, 1, 10, 0]",JUMP_NORTH,IDLE,"(19, 71)","(11, 79)",0,0,0,0
+78594743,1475836715,Manav Trivedi,win,1,-1,218,217,factory_collision,27,"[0, 16, 45, 581, 1, 2, 14, 0]","[0, 16, 44, 372, 0, 1, 11, 8]",BUILD_SCOUT,NORTH,"(16, 45)","(16, 45)",50,47,1,2
+78594970,1860558251,Vladislav Lavrentev,loss,-60,63,444,443,boundary_scroll,87,"[0, 19, 86, 0, 1, 0, 0, 0]","[0, 0, 87, 64, 0, 1, 11, 0]",JUMP_NORTH,NORTH,"(19, 88)","(0, 88)",0,0,0,0

@@ -1,0 +1,31 @@
+episode_id,seed,teams,our_index,opponent,reward_0,reward_1,our_reward,opp_reward,winner,our_result,status_0,status_1,steps,death_step_0,death_step_1,our_death_step,opp_death_step,last_factory_0,last_factory_1,replay_path
+78489628,618390460,MhalTeddy|Jiayi Du,1,MhalTeddy,-104,634,634,-104,Jiayi Du,win,DONE,DONE,400,399,,,399,,"(16, 82, 634)",reports/replays/episode-78489628-replay.json
+78489980,1797676729,Santiago Maniches|Jiayi Du,1,Santiago Maniches,-36,580,580,-36,Jiayi Du,win,DONE,DONE,468,467,,,467,,"(16, 111, 506)",reports/replays/episode-78489980-replay.json
+78490203,272650090,Jiayi Du|Asterios Terzis,0,Asterios Terzis,1,-1,1,-1,Jiayi Du,win,DONE,DONE,296,295,295,295,295,,,reports/replays/episode-78490203-replay.json
+78490561,2116782981,Jiayi Du|Betise,0,Betise,-1,1,-1,1,Betise,loss,DONE,DONE,161,160,160,160,160,,,reports/replays/episode-78490561-replay.json
+78490914,1311370638,Bulşah Keçici|Jiayi Du,1,Bulşah Keçici,1,-1,-1,1,Bulşah Keçici,loss,DONE,DONE,501,,,,,"(9, 115, 710)","(10, 119, 196)",reports/replays/episode-78490914-replay.json
+78491280,2087384532,Vladislav Lavrentev|Jiayi Du,1,Vladislav Lavrentev,1,-1,-1,1,Vladislav Lavrentev,loss,DONE,DONE,247,246,246,246,246,,,reports/replays/episode-78491280-replay.json
+78491505,85564605,Jiayi Du|Dietmar Hameister,0,Dietmar Hameister,1,-1,1,-1,Jiayi Du,win,DONE,DONE,262,261,261,261,261,,,reports/replays/episode-78491505-replay.json
+78491857,523859715,Jiayi Du|chibarie,0,chibarie,1,-1,1,-1,Jiayi Du,win,DONE,DONE,356,355,355,355,355,,,reports/replays/episode-78491857-replay.json
+78492239,812487170,Vivek Tiwari|Jiayi Du,1,Vivek Tiwari,-36,212,212,-36,Jiayi Du,win,DONE,DONE,468,467,,,467,,"(13, 103, 165)",reports/replays/episode-78492239-replay.json
+78492597,96495343,Jiayi Du|KunalKakade,0,KunalKakade,564,-30,564,-30,Jiayi Du,win,DONE,DONE,474,,473,,473,"(18, 112, 564)",,reports/replays/episode-78492597-replay.json
+78492958,913491241,Jiayi Du|抹茶穗岁,0,抹茶穗岁,-1,1,-1,1,抹茶穗岁,loss,DONE,DONE,122,121,121,121,121,,,reports/replays/episode-78492958-replay.json
+78493303,1634319478,Jiayi Du|Benedek Brandschott,0,Benedek Brandschott,1,-1,1,-1,Jiayi Du,win,DONE,DONE,110,109,109,109,109,,,reports/replays/episode-78493303-replay.json
+78493663,2072812750,Jiayi Du|iLife frank,0,iLife frank,0.5,0.5,0.5,0.5,draw,draw,DONE,DONE,178,177,177,177,177,,,reports/replays/episode-78493663-replay.json
+78494048,700445533,Daniel Du|Jiayi Du,1,Daniel Du,1,-1,-1,1,Daniel Du,loss,DONE,DONE,309,308,308,308,308,,,reports/replays/episode-78494048-replay.json
+78494050,1593143728,Ifeoluwa Adewumi|Jiayi Du,1,Ifeoluwa Adewumi,-48,22,22,-48,Jiayi Du,win,DONE,DONE,456,455,,,455,,"(19, 102, 22)",reports/replays/episode-78494050-replay.json
+78494264,1052450985,Phillip Choi|Jiayi Du,1,Phillip Choi,-64,559,559,-64,Jiayi Du,win,DONE,DONE,440,439,,,439,,"(18, 98, 542)",reports/replays/episode-78494264-replay.json
+78494617,614601982,Jiayi Du|Mark Litvinov,0,Mark Litvinov,1,-1,1,-1,Jiayi Du,win,DONE,DONE,222,221,221,221,221,,,reports/replays/episode-78494617-replay.json
+78494974,1206095815,Jiayi Du|schanitater,0,schanitater,1,-1,1,-1,Jiayi Du,win,DONE,DONE,186,185,185,185,185,,,reports/replays/episode-78494974-replay.json
+78495196,688775718,Jiayi Du|Azizbek Xasanov,0,Azizbek Xasanov,1,-1,1,-1,Jiayi Du,win,DONE,DONE,146,145,145,145,145,,,reports/replays/episode-78495196-replay.json
+78495575,600698060,Jiayi Du|MarcinStaśko | s4p.eu | Poland,0,MarcinStaśko | s4p.eu | Poland,1,-1,1,-1,Jiayi Du,win,DONE,DONE,105,104,104,104,104,,,reports/replays/episode-78495575-replay.json
+78495800,451210769,Jiayi Du|Pilkwang Kim,0,Pilkwang Kim,-1,1,-1,1,Pilkwang Kim,loss,DONE,DONE,109,108,108,108,108,,,reports/replays/episode-78495800-replay.json
+78496163,2124088070,Srivaths Natarajan|Jiayi Du,1,Srivaths Natarajan,-1,1,1,-1,Jiayi Du,win,DONE,DONE,284,283,283,283,283,,,reports/replays/episode-78496163-replay.json
+78496388,427476245,Jiayi Du|Daniel Bekker,0,Daniel Bekker,1,-1,1,-1,Jiayi Du,win,DONE,DONE,213,212,212,212,212,,,reports/replays/episode-78496388-replay.json
+78496770,262672784,Jiayi Du|bsenst,0,bsenst,1,-1,1,-1,Jiayi Du,win,DONE,DONE,129,128,128,128,128,,,reports/replays/episode-78496770-replay.json
+78496994,139635236,Bulşah Keçici|Jiayi Du,1,Bulşah Keçici,1,-1,-1,1,Bulşah Keçici,loss,DONE,DONE,501,,,,,"(14, 116, 449)","(18, 123, 193)",reports/replays/episode-78496994-replay.json
+78497216,779592466,Jiayi Du|Ikki Katsuyama,0,Ikki Katsuyama,1,-1,1,-1,Jiayi Du,win,DONE,DONE,132,131,131,131,131,,,reports/replays/episode-78497216-replay.json
+78497435,1200531490,tuannm3823|Jiayi Du,1,tuannm3823,1,-1,-1,1,tuannm3823,loss,DONE,DONE,218,217,217,217,217,,,reports/replays/episode-78497435-replay.json
+78497800,1418039395,Jiayi Du|betterme,0,betterme,1,-1,1,-1,Jiayi Du,win,DONE,DONE,210,209,209,209,209,,,reports/replays/episode-78497800-replay.json
+78502110,1618837298,Changdao Chen|Jiayi Du,1,Changdao Chen,969,-10,-10,969,Changdao Chen,loss,DONE,DONE,494,,493,493,,"(7, 112, 969)",,reports/replays/episode-78502110-replay.json
+78505302,804733618,Halvard|Jiayi Du,1,Halvard,-1,1,1,-1,Jiayi Du,win,DONE,DONE,501,,,,,"(9, 119, 89)","(15, 118, 342)",reports/replays/episode-78505302-replay.json
