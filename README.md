@@ -1,4 +1,4 @@
-# [2026-09] Maze Crawler Research Archive
+# [2026-06] Maze Crawler Research Archive
 
 Local workspace for the Kaggle `maze-crawler` competition.
 
