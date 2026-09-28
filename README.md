@@ -1,4 +1,4 @@
-# Maze Crawler
+# [2026-09] Maze Crawler Research Archive
 
 Local workspace for the Kaggle `maze-crawler` competition.
 
@@ -9,6 +9,13 @@ corpora, virtual environments, and cached third-party baselines. The root
 baseline was originally derived from the public Kaggle notebook credited in
 `docs/research.md`; subsequent variants and analysis are preserved here with
 that provenance visible.
+
+## Contribution summary
+
+This snapshot contributes first-party agent variants, reviewed submission
+source, local evaluation helpers, and written findings. Official inputs and
+replays plus third-party baselines remain source-linked; eligible evidence is
+released separately with its own provenance and checksums.
 
 ## Publication status
 
@@ -80,3 +87,21 @@ scripts/submit_with_retry.sh
 
 Eligible sanitized artifacts are also mirrored to the public
 [Kaggle archive](https://www.kaggle.com/datasets/jahyee/maze-crawler-research-archive).
+
+## Cite this repository
+
+For this source snapshot, cite [`CITATION.cff`](CITATION.cff) or
+[`CITATION.bib`](CITATION.bib) and use the tagged
+[`snapshot-2026-09`](https://github.com/OpenKaggle/maze-crawler-research/tree/snapshot-2026-09)
+source state. Cite the separate evidence release or Kaggle archive
+independently when using those artifacts.
+
+## References
+
+- [Maze Crawler competition](https://www.kaggle.com/competitions/maze-crawler)
+- [OpenKaggle publishing guide](https://github.com/OpenKaggle/.github/blob/main/PUBLISHING.md)
+
+## Release
+
+- Snapshot: [`snapshot-2026-09`](https://github.com/OpenKaggle/maze-crawler-research/tree/snapshot-2026-09)
+- Boundary and evaluation terms: [`PUBLICATION_BOUNDARY.md`](PUBLICATION_BOUNDARY.md)

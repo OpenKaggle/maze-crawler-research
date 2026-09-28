@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: >-
+  If you use this snapshot, please cite the versioned source archive and
+  distinguish local evaluation from hosted or official records.
+title: Maze Crawler Research Archive
+type: software
+authors:
+  - name: OpenKaggle contributors
+repository-code: https://github.com/OpenKaggle/maze-crawler-research
+url: https://github.com/OpenKaggle/maze-crawler-research/tree/snapshot-2026-09
+version: snapshot-2026-09
+date-released: 2026-09-28
+abstract: >-
+  Source archive for Maze Crawler agent variants, reviewed submission source,
+  evaluation helpers, and research findings.
+keywords:
+  - Kaggle
+  - agents
+  - evaluation
+  - reproducibility
